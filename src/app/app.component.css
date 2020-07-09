@@ -1,0 +1,48 @@
+/* .triangle-up {
+  width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid ;
+} */
+#low{
+  height: 15px;
+  width: 15px;
+  border-radius: 2;
+   /* border-left: 20 solid transparent;
+    border-right: 10 solid transparent;
+    border-bottom: 30px solid black; */
+   background-color: white;
+   /* border-color: rebeccapurple; */
+}
+ 
+.red {
+    border-bottom: 15px solid red;
+ }
+    
+.green {
+   border-bottom: 15px solid green;
+   /* background-color: green; */
+} 
+.yellow{
+  border-bottom: 15px solid yellow;
+}
+.blue{
+  border-bottom: 15px solid blue;
+}
+.orange{
+  border-bottom: 15px solid orange;
+}
+.white{
+  border-bottom: 15px white ;
+  border-block-end-color: black;
+}
+.button{
+  width: 30px;
+  height: 20px;
+  background: rgb(189, 189, 165)
+}
+.img{
+  height: 50px;
+  width:50px;
+}
